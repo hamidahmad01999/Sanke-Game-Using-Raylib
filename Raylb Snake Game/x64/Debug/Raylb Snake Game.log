@@ -1,0 +1,56 @@
+﻿  Food.cpp
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Food.cpp(26,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Food.cpp(26,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Food.cpp(31,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Food.cpp(31,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Food.cpp(31,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(410,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(410,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(420,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(420,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(434,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(434,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(442,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(442,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(445,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(445,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(452,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(452,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(461,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(461,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(462,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(462,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(510,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(510,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(512,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(512,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(514,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(514,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(516,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(516,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(552,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(552,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(554,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(554,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(556,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(556,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Game.cpp(586,6): warning C4101: 'hScore': unreferenced local variable
+  Level.cpp
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Level.cpp(23,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Level.cpp(24,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Level.cpp(25,16): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Level.cpp(25,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Level.cpp(25,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Level.cpp(25,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Menu.cpp
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Menu.cpp(17,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\Raylb Snake Game\Menu.cpp(17,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Snake.cpp
+  Source.cpp
+  SplashScreen.cpp
+  State.cpp
+  Generating Code...
+  Raylb Snake Game.vcxproj -> D:\BSCS\Semesters\Semester 3\OOP\Project\Final Raylib Snake Game\Raylb Snake Game\x64\Debug\Raylb Snake Game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
